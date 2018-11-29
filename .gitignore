@@ -1,0 +1,17 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.env.example
+app/
+artisan
+bootstrap/
+composer.json
+composer.lock
+database/
+phpunit.xml
+readme.md
+routes/
+storage/
+tests/

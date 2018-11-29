@@ -1,0 +1,17 @@
+.no-padding {
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    height: 30%;
+    width: 100%;
+    background-color: #260801;
+    /* background-image: url("/img/backBanner.jpg");
+    background-size: cover;
+    background-position: center; */
+}
+
+.white {
+    color: #F26E50;
+}
