@@ -15,3 +15,25 @@
 .white {
     color: #F26E50;
 }
+
+.global {
+    height: 30%;
+    width: 100%;
+}
+
+.logo {
+    height: 8%;
+    width: 100%;
+}
+
+/* .round {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+} */
+
+/* .imgHome {
+    top: 50%;
+    height: 90%;
+} */

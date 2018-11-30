@@ -21,7 +21,7 @@
             </a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Personnages</a>
+            <a class="nav-link" href="/liste">Personnages</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Profil</a>
@@ -29,7 +29,6 @@
         </ul>
     </div>
 </nav>
-
     <div class="container-fluid no-padding">
         @yield('content')
     </div>
