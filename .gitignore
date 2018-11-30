@@ -4,6 +4,7 @@ Homestead.json
 Homestead.yaml
 .env
 .env.example
+.DS_Store
 app/
 artisan
 bootstrap/
